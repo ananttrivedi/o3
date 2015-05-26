@@ -27,7 +27,7 @@ Supported Operating Systems
 Supported Browsers
 ================================
 
-  Iternet Explorer (from IE6)
+  Internet Explorer (IE6 and above)
   Firefox
   Safari
   Chrome
